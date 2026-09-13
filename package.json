@@ -11,6 +11,8 @@
   "dependencies": {
     "@google/adk": "^1.4.0",
     "@google/adk-devtools": "^1.4.0",
+    "@google/genai": "^2.13.0",
+    "@pinecone-database/pinecone": "^9.0.0",
     "dotenv": "^17.4.2",
     "zod": "^4.4.3"
   },
